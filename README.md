@@ -1,2 +1,2 @@
 # Machine_Learning_Class_on
-# This is my first repository 
+# This is my first repository for ML work 
